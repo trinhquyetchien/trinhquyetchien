@@ -56,55 +56,45 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 ### 🔧 Languages and Tools
 
 - **Backend**  
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,nestjs" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring" />
 
 - **Frontend**  
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,react" />
 
 - **Database**  
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
 - **Cloud / Servers**  
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=redis,firebase" />
 
 - **Tools**  
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,linux" />
 
 ---
 
-### 🏆 Trophy Cabinet
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=quyetchien2k5&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" />
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=quyetchien2k5&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trinhquyetchien2005&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Activity Graph
 
-<div align="center">
-
-![Chiến's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyetchien2k5&theme=midnight-purple&show_icons=true&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=quyetchien2k5&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien2005&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity" />
+</p>
 
 ---
 
-### 📈 Activity
+## 🐍 Snake Eating Contribution Graph
 
-![Chiến's Graph](https://github-readme-activity-graph.vercel.app/graph?username=quyetchien2k5&custom_title=Chiến%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
-
----
-
-### 🐍 Snake Eating Contribution Graph
-
-![snake gif](https://github.com/quyetchien2k5/quyetchien2k5/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/trinhquyetchien2005/trinhquyetchien2005/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
+
 
 <img src="bottom.png" width="100%">
