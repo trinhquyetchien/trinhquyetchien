@@ -99,9 +99,7 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 
 ## 🐍 Snake Eating Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/trinhquyetchien2005/trinhquyetchien2005/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+![Snake animation](https://github.com/trinhquyetchien2005/trinhquyetchien2005/blob/output/snake.svg)
 
 ---
 
