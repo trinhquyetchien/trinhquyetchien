@@ -74,9 +74,18 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=trinhquyetchien2005&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Chiến's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhquyetchien2005&show_icons=true&theme=radical)
+
+
+---
+## Top langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien2005&layout=compact&theme=radical)
+
+---
+## Streak stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trinhquyetchien2005&theme=radical)
+
 
 ---
 
