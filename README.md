@@ -74,17 +74,17 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 
 ## 📊 GitHub Stats
 
-![Chiến's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien2005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+![Chiến's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
 
 ---
 ## Top langs
 
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien2005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)
 
 ---
 ## Streak stats
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=trinhquyetchien2005&count_private=true&theme=react&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=trinhquyetchien&count_private=true&theme=react&border_radius=10)
 
 
 ---
@@ -92,14 +92,14 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien2005&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity" />
 </p>
 
 ---
 
 ## 🐍 Snake Eating Contribution Graph
 
-![Snake animation](https://github.com/trinhquyetchien2005/trinhquyetchien2005/blob/output/snake.svg)
+![Snake animation](https://github.com/trinhquyetchien/trinhquyetchien2005/blob/output/snake.svg)
 
 ---
 
