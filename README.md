@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/chien-trinh-quyet-3812642a3">
-  <img src="https://www.youtube.com/user/LinkedIn/playlists" height="30" width="40" />
+  <img src="https://topdev.vn/blog/wp-content/uploads/2025/09/18c75045489c1c6995d337db8025abcd.jpg" height="30" width="40" />
 </a>
 </p>
 
