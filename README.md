@@ -1,91 +1,105 @@
-![logo](top.png)
+<img src="https://giffiles.alphacoders.com/209/209343.gif">
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<p align="center" style="margin:50px"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=F552F7C6&width=440&lines=Xin+ch%C3%A0o+m%E1%BB%8Di+ngu%E1%BB%9Di%2C++m%C3%ACnh+l%C3%A0+Chi%E1%BA%BFn.;Hello+everyone%2C+my+name+is+Chien.;%E7%9A%86%E3%81%95%E3%82%93%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%83%81%E3%82%A8%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82" alt="Typing SVG" /></p>
 
-<h1 align="center">Hi 👋, I'm Quyet Chien</h1>
-<h3 align="center">A fullstack developer from Viet Nam</h3>
+<h3 align="center">Da Nang, Viet Nam </h3>
+<p align="center">Android developer | Backend Developer </p>
+<p align="center"></p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time.  
-And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+🚀 Aspiring <b>Android Developer</b> with a strong interest in backend systems<br/>
+🧠 Currently learning <b>scalable architectures</b> and <b>system design fundamentals</b><br/>
+🔧 Hands-on experience with <b>REST APIs</b>, mobile apps, and small full-stack projects<br/>
+📚 Continuously improving through practice and real-world projects<br/>
+🎯 Goal: Grow into a <b>professional software engineer</b>
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=quyetchien2k5&label=Profile%20views&color=0e75b6&style=flat" alt="chien" />
+<a href="https://www.facebook.com/QuyetChien.1509">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/chien-trinh-quyet-3812642a3">
+  <img src="https://www.youtube.com/user/LinkedIn/playlists" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 🛠 Tech Stack
+<h2 align="center">🔧 Languages and Tools</h2>
+<div align="">
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <th style="padding: 12px;">Category</th>
+    <th style="padding: 12px;">Tech Stack</th>
+  </tr>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-</div>
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Backend</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=java,nodejs,spring" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Web</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,nestjs" />
+    </td>
+  </tr>
 
-### 📚 About Me
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Database</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+    </td>
+  </tr>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Android</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter," />
+    </td>
+  </tr>
 
-- 🔭 I’m a student at **VKU**  
-- 🌱 I’m currently learning **Fullstack Development**  
-- 💬 Ask me about **Java, Python, PHP, NodeJS**  
-- 📫 Reach me at **trinhquyetchien2005@gmail.com**
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Cloud / Realtime</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=redis,firebase,aws," />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Tools adn Ide</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,figma,postman,neovim,idea," />
+    </td>
+  </tr>
 
-### 🌐 Connect with me
+ <tr>
+    <td align="center" valign="middle" style="padding: 10px;"><b>Other</b></td>
+    <td align="center" valign="middle" style="padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=githubactions,gradle,jenkins,npm,nginx,redux,vite," />
+    </td>
+  </tr>
 
-<p align="left">
-<a href="https://www.facebook.com/QuyetChien.1509"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/trqt.chien"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@trinhquyetchien2005"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Tik%20Tok.png" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@quyetchienascoutic4656"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 🔧 Languages and Tools
-
-- **Backend**  
-  <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring" />
-
-- **Frontend**  
-  <img src="https://skillicons.dev/icons?i=js,react" />
-
-- **Database**  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-
-- **Cloud / Servers**  
-  <img src="https://skillicons.dev/icons?i=redis,firebase" />
-
-- **Tools**  
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,linux" />
+</table>
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" />
+</p>
 
-![Chiến's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-
-
----
-## Top langs
-
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10)
-
----
-## Streak stats
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=trinhquyetchien&count_private=true&theme=react&border_radius=10)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trinhquyetchien&count_private=true&theme=react&border_radius=10" />
+</p>
 
 ---
 
@@ -99,9 +113,7 @@ And also I love exploring new tech stack 💻 and leveraging them to build cool 
 
 ## 🐍 Snake Eating Contribution Graph
 
-![Snake animation](https://github.com/trinhquyetchien/trinhquyetchien2005/blob/output/snake.svg)
+<p align="center">
+<img src="https://github.com/trinhquyetchien/trinhquyetchien2005/blob/output/snake.svg" />
+</p>
 
----
-
-
-<img src="bottom.png" width="100%">
