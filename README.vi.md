@@ -48,8 +48,8 @@ vào kiến trúc rõ ràng, mã nguồn dễ bảo trì và trải nghiệm ng�
 ## Thống Kê GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Thống kê GitHub của Chiến" />
-  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Thống kê GitHub của Chiến" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ vào kiến trúc rõ ràng, mã nguồn dễ bảo trì và trải nghiệm ng�
 ## Hoạt Động Đóng Góp
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Biểu đồ hoạt động GitHub của Chiến" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Biểu đồ hoạt động GitHub của Chiến" />
 </div>
 
 
