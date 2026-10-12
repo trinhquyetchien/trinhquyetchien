@@ -52,12 +52,12 @@ clean architecture, maintainable code, and practical user experiences.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Chiến's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Chiến's most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Chiến's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chiến's most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=github-dark-blue&hide_border=true" alt="Chiến's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="Chiến's GitHub contribution streak" />
 </div>
 
 ## Certifications & Awards
@@ -69,7 +69,7 @@ clean architecture, maintainable code, and practical user experiences.
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Chiến's GitHub activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="Chiến's GitHub activity graph" />
 </div>
 
 
