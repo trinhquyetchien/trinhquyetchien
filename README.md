@@ -52,8 +52,8 @@ clean architecture, maintainable code, and practical user experiences.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Chiến's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chiến's most used languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Chiến's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chiến's most used languages" />
 </div>
 
 <div align="center">

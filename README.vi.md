@@ -48,8 +48,8 @@ vào kiến trúc rõ ràng, mã nguồn dễ bảo trì và trải nghiệm ng�
 ## Thống Kê GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Thống kê GitHub của Chiến" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Thống kê GitHub của Chiến" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
 </div>
 
 <div align="center">
