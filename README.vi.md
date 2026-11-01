@@ -48,12 +48,12 @@ vào kiến trúc rõ ràng, mã nguồn dễ bảo trì và trải nghiệm ng�
 ## Thống Kê GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Thống kê GitHub của Chiến" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=nord&hide_border=true&rank_icon=github&cache_seconds=86400" alt="Thống kê GitHub của Chiến" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=nord&hide_border=true&langs_count=8&cache_seconds=86400" alt="Các ngôn ngữ Chiến sử dụng nhiều nhất" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=dark&hide_border=true&cache_seconds=86400" alt="Chuỗi đóng góp GitHub của Chiến" />
+  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=nord&hide_border=true&cache_seconds=86400" alt="Chuỗi đóng góp GitHub của Chiến" />
 </div>
 
 ## Chứng Chỉ & Giải Thưởng
@@ -65,7 +65,7 @@ vào kiến trúc rõ ràng, mã nguồn dễ bảo trì và trải nghiệm ng�
 ## Hoạt Động Đóng Góp
 
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="Biểu đồ hoạt động GitHub của Chiến" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=nord&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="Biểu đồ hoạt động GitHub của Chiến" />
 </div>
 
 

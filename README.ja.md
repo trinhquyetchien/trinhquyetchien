@@ -77,14 +77,14 @@
 ## GitHubでの活動
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=86400" alt="ChiếnのGitHub統計" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chiếnがよく使用している言語" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=nord&hide_border=true&rank_icon=github&cache_seconds=86400" alt="ChiếnのGitHub統計" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=nord&hide_border=true&langs_count=8&cache_seconds=86400" alt="Chiếnがよく使用している言語" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=dark&hide_border=true&cache_seconds=86400" alt="ChiếnのGitHubコントリビューションストリーク" />
+  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=nord&hide_border=true&cache_seconds=86400" alt="ChiếnのGitHubコントリビューションストリーク" />
 </div>
 
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="ChiếnのGitHubアクティビティグラフ" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=nord&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="ChiếnのGitHubアクティビティグラフ" />
 </div>
