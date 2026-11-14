@@ -1,75 +1,90 @@
 <div align="center">
 
-[**English**](README.md) | [Tiếng Việt](README.vi.md) | [日本語](README.ja.md)
+[**日本語**](README.md) | [English](README.en.md) | [Tiếng Việt](README.vi.md)
 
-# Hi, I'm Chien
+# チエン
 
-### Android & Backend Developer
+### アンドロイド・バックエンドエンジニア
 
-I build reliable mobile applications and backend services, with a focus on
-clean architecture, maintainable code, and practical user experiences.
+ベトナム・ダナンを拠点に、モバイルアプリケーションと
+バックエンドサービスの開発に取り組んでいます。
 
-<p align="center">
-<a href="https://www.facebook.com/QuyetChien.1509">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/chien-trinh-quyet-3812642a3">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+[![所在地](https://img.shields.io/badge/所在地-ベトナム・ダナン-0A66C2?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Da+Nang,+Vietnam)
+[![プロフィール閲覧数](https://komarev.com/ghpvc/?username=trinhquyetchien&style=flat-square&color=0A66C2&label=Profile+Views)](https://github.com/trinhquyetchien)
 
 </div>
 
-## About Me
+## 自己紹介
 
-- Building Android applications and RESTful backend services
-- Learning scalable architecture, system design, and cloud technologies
-- Interested in clean code, performance, and developer experience
-- Working toward becoming a well-rounded software engineer
+はじめまして、チエンと申します。
+アンドロイドアプリケーションとRESTful APIの開発を中心に学習・開発しています。
+現在は、モバイルとバックエンドの両方を理解し、サービス全体を設計・実装できる
+ソフトウェアエンジニアを目指しています。
 
-## Current Focus
+- **拠点:** ベトナム・ダナン
+- **専門分野:** アンドロイド / バックエンド開発
+- **関心分野:** システム設計、クラウド、CI/CD、パフォーマンス改善
 
-- Designing maintainable Android applications with modern architecture
-- Developing secure and scalable REST APIs
-- Improving system design, testing, CI/CD, and cloud deployment skills
-- Turning practical ideas into complete, production-oriented projects
+## 自己PR
 
-## Tech Stack
+私の強みは、モバイルアプリケーションからバックエンド、データベースまで、
+システム全体の流れを意識して開発できることです。
+
+新しい技術を学ぶ際は、理解するだけでなく、実際のプロジェクトで試しながら
+知識を定着させることを大切にしています。また、保守性と拡張性を意識し、
+読みやすく責任範囲の明確なコードを書くよう心がけています。
+
+- 課題を小さな単位に分け、優先順位を付けて着実に解決します
+- API設計からアプリケーション連携まで一貫して取り組めます
+- フィードバックを受け入れ、継続的に改善する姿勢を大切にしています
+
+## 連絡先
+
+ご相談や共同開発に関するご連絡を歓迎しています。
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chien_Trinh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chien-trinh-quyet-3812642a3)
+[![GitHub](https://img.shields.io/badge/GitHub-trinhquyetchien-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trinhquyetchien)
+[![Facebook](https://img.shields.io/badge/Facebook-Quyet_Chien-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/QuyetChien.1509)
+
+## 技術スタック
 
 <div align="center">
 
-| Area | Technologies |
+| 分野 | 技術 |
 | --- | --- |
-| **Android** | <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,gradle,firebase" alt="Kotlin, Flutter, React Native, Gradle, Firebase" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" alt="Java, Spring Boot, Node.js, NestJS" /> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vue" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,postman,figma" alt="Git, GitHub, GitLab, Docker, Jenkins, Postman, Figma" /> |
-| **IDE** | <img src="https://skillicons.dev/icons?i=androidstudio,idea,neovim" alt="Android Studio, IntelliJ IDEA, Neovim" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis" /> |
+| **アンドロイド** | <img src="https://skillicons.dev/icons?i=kotlin,flutter,react,gradle,firebase" alt="Kotlin, Flutter, React Native, Gradle, Firebase" /> |
+| **バックエンド** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs" alt="Java, Spring Boot, Node.js, NestJS" /> |
+| **ウェブ** | <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue" alt="HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vue" /> |
+| **ツール** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,jenkins,postman,figma" alt="Git, GitHub, GitLab, Docker, Jenkins, Postman, Figma" /> |
+| **アイディーイー** | <img src="https://skillicons.dev/icons?i=androidstudio,idea,neovim" alt="Android Studio, IntelliJ IDEA, Neovim" /> |
+| **データベース** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis" /> |
 
 </div>
 
-## GitHub Analytics
+## 現在取り組んでいること
+
+- モダンアーキテクチャを活用した、保守性の高いアンドロイドアプリの設計
+- セキュアで拡張性のあるREST APIの開発
+- テスト、CI/CD、クラウドデプロイを含む開発プロセスの改善
+- 個人プロジェクトを通じたシステム設計と実装力の向上
+
+## 資格・受賞歴
+
+- **日本語能力試験 JLPT N4**
+- **英語:** 基礎レベル（B1）
+- **第4位**, ダナンで開催されたAI for Lifeコンテスト
+
+## GitHubでの活動
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=nord&hide_border=true&rank_icon=github" alt="Chiến's GitHub statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Chiến's most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=trinhquyetchien&show_icons=true&theme=nord&hide_border=true&rank_icon=github" alt="ChiếnのGitHub統計" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=trinhquyetchien&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Chiếnがよく使用している言語" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=nord&hide_border=true&cache_seconds=86400" alt="Chiến's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=trinhquyetchien&theme=nord&hide_border=true&cache_seconds=86400" alt="ChiếnのGitHubコントリビューションストリーク" />
 </div>
-
-## Certifications & Awards
-
-- **Japanese-Language Proficiency Test (JLPT) N4**
-- **English:** Basic proficiency (B1)
-- **Fourth Prize**, AI for Life Competition, Da Nang
-
-## Contribution Activity
 
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=nord&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="Chiến's GitHub activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=trinhquyetchien&theme=nord&hide_border=true&area=true&custom_title=Contribution%20Activity&cache_seconds=86400" alt="ChiếnのGitHubアクティビティグラフ" />
 </div>
-
-

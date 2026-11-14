@@ -1,6 +1,6 @@
 <div align="center">
 
-[English](README.md) | [**Tiếng Việt**](README.vi.md) | [日本語](README.ja.md)
+[日本語](README.md) | [English](README.en.md) | [**Tiếng Việt**](README.vi.md)
 
 # Xin chào, tôi là Chiến
 
